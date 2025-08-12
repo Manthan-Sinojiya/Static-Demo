@@ -4,7 +4,7 @@ This is a **unique static website** hosted using GitHub Pages.
 It demonstrates how to deploy HTML & CSS files for free.
 
 ## 🌐 Live Demo
-[Click Here to View](https://YOUR-USERNAME.github.io/unique-static-demo/)
+[Click Here to View](https://manthan-sinojiya.github.io/Static-Demo/)
 
 ## 📁 Project Structure
 ```
@@ -25,7 +25,7 @@ It demonstrates how to deploy HTML & CSS files for free.
 4. Under **Branch**, select `main` and **root** folder.
 5. Click **Save** — Your website will be live at:
    ```
-   https://YOUR-USERNAME.github.io/unique-static-demo/
+   https://manthan-sinojiya.github.io/Static-Demo/
    ```
 
 ## 🖌 Customization
